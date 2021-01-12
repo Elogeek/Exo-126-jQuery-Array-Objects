@@ -5,6 +5,9 @@ let arrObj = [
     {"person" : "Spencer", "age" : 34, "avatar" : "https://avataaars.io/?avatarStyle=Circle&topType=LongHairStraight&accessoriesType=Prescription02&hairColor=Blonde&facialHairType=BeardMedium&facialHairColor=Black&clotheType=CollarSweater&clotheColor=PastelRed&eyeType=Dizzy&eyebrowType=SadConcerned&mouthType=Sad&skinColor=Yellow"}
 ];
 
+
+
+
 //Methode js native pour parcourir un tableau d'objets ( avec for...in )
 for(let i in arrObj) {
     // i est l'index de mon tableau d'objet
